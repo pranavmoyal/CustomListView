@@ -6,3 +6,4 @@ print to the toast.
 than create a new java file CustomListAdapter extends to ArrayAdapter<String>
 i used this java files if else condition.
 also create a row object.
+![alt tag](https://github.com/pranavmoyal/CustomListView/blob/master/Screenshot_20160727-122925.png)
